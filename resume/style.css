@@ -1,5 +1,6 @@
+/* styles for resume*/
 body{
-  font-family: 'Open Sans', arial, sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
   color:#444;
   font-weight: 400;
@@ -10,6 +11,7 @@ body{
   margin:0 auto;
   padding-bottom: 50px;
 }
+/*banner name*/
 #name{
   font-size:3em;
   text-transform: uppercase;
@@ -20,23 +22,41 @@ body{
   min-width:300px;
   margin:0 auto;
 }
+/*h2*/
 
 .sectionheader{
+  font-size:1.5em;
+  text-transform:uppercase;
+  font-weight:400;
+  background-color: #33485e;
+  color:#fff;
   margin:20px 10px 0px 0px;
   width:70%;
   min-width:300px;
 }
-
+/*h3*/
+.jobtitle{
+  font-size: 1.5em;
+  font-weight: 600;
+}
+/*h4*/
 .organization{
+  font-weight:400;
   font-size: 1.25em;
 }
+/*h5*/
 .date{
+  font-size: 1em;
+  font-weight: 400;
+  font-style: italic;
   margin: 2px 0px 0px 0px;
 }
 .description{
   margin: 10px 10px 0px 0px;
 }
+/*list1*/
 .menu{
+  font-size:1em;
   margin: 0px;
   padding: 0px;
   text-align: center;
@@ -44,8 +64,14 @@ body{
 li.menu{
   display:inline;
 }
+/*list2*/
 #degrees{
+  font-size:1em;
   margin:5px 0px 0px 0px;
+}
+/*list3*/
+#do{
+  font-size:1em;
 }
 #title{
   color: #33485e;
@@ -54,26 +80,4 @@ li.menu{
   font-size:1.5em;
   text-align: center;
   margin: 20px 0px 0px 0px;
-}
-h2{
-  font-size:1.5em;
-  text-transform:uppercase;
-  background-color: #33485e;
-  color:#fff;
-}
-h3{
-  font-size: 1em;
-  font-weight: 600;
-}
-h4{
-  font-size: 1em;
-  font-weight:400;
-}
-h5{
-  font-size: 1em;
-  font-weight: 400;
-  font-style: italic;
-}
-ul{
-  font-size:1em;
 }
