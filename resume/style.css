@@ -57,13 +57,13 @@ body{
 /*list1*/
 .menu{
   font-size:1em;
-  margin: 0px;
-  padding: 0px;
-  text-align: center;
+  margin: auto;
+  padding:0;
+  display:inline-block;
+  text-align:center;
+
 }
-li.menu{
-  display:inline;
-}
+
 /*list2*/
 #degrees{
   font-size:1em;
