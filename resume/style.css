@@ -57,10 +57,10 @@ body{
 /*list1*/
 .menu{
   font-size:1em;
-  margin: auto;
+  margin:0;
   padding:0;
   display:inline-block;
-  text-align:center;
+  text-align: center;
 
 }
 
