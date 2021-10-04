@@ -55,13 +55,15 @@ body{
   margin: 10px 10px 0px 0px;
 }
 /*list1*/
+.menu-list{
+  text-align: center;
+}
 .menu{
   display:inline-block;
   font-size:1em;
   margin:0;
   padding:0;
   text-align: center;
-
 }
 
 /*list2*/
