@@ -56,10 +56,10 @@ body{
 }
 /*list1*/
 .menu{
+  display:inline-block;
   font-size:1em;
   margin:0;
   padding:0;
-  display:inline-block;
   text-align: center;
 
 }
