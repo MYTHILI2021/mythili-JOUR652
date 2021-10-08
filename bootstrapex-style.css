@@ -1,0 +1,33 @@
+#mainimage {
+  width:"100%";
+  max-width:"500px";
+}
+.col-md-6{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bi{
+  font-size:3em;
+}
+.col-md-4{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1,h2,h3,.navbar-brand,.btn{
+  font-family: 'Special Elite', cursive;
+}
+row{
+  padding-botton: 50px;
+}
+@media only screen and (max-width: 500px) {
+
+h1{
+  padding-top:50px;
+}
+  .btn{
+    background-color: teal;
+  }
+
+}
