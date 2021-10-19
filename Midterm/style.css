@@ -1,0 +1,16 @@
+#content{
+  margin: 0 auto;
+  width:900px;
+}
+#headline{
+  font-family: Georgia, serif;
+  font-size: 40px;
+}
+#subheading{
+  font-family: Georgia, serif;
+  font-size: 30px;
+}
+p{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size:12px;
+}
