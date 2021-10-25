@@ -1,0 +1,24 @@
+
+.col-md-4{
+  background-color: #C8A2C8;
+  height:400px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  padding-right: 1.25em;
+  padding-bottom: 1.25em;
+}
+.col-md-6{
+  background-color: #808080;
+  height:300px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  padding-right: 1.25em;
+  padding-bottom: 1.25em;
+}
+
+.navbar{
+  font-family: Arial, sans-serif;
+}
+.footer{
+  background-color: #C8A2C8;
+}
