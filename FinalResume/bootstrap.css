@@ -20,8 +20,8 @@
   margin:0;
 }
 .navbar-nav{
-  padding-top: 1.5em;
-  padding-bottom: 1.5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -33,15 +33,43 @@ a:hover{
   background-color:#FFE8FF;
   color:#703970;
 }
+
+hover-button:hover{
+  padding: 25px;
+  background-color:#FFE8FF;
+  transition: transform .2s;
+  color:#703970;
+  width: 30px;
+  height: 30px;
+  transform: scale(1.2);
+  margin: 0 auto;
+}
+
+
 i{
   font-size:2em;
   color:#703970;
 }
 .footer{
+  position: relative;
+  bottom: 0px;
+  width: 100%;
   background-color:#703970 ;
   color:#C8A2C8;
   font-family: 'Montserrat', arial, sans-serif;
   font-weight: 500;
   font-size: 15px;
   text-align: right;
+}
+
+.social-icon {
+  display: inline;
+  justify-content:left;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  color: #C8A2C8;
+  width: 30px;
+  margin: 0 5px;
 }

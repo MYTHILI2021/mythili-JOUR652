@@ -1,19 +1,4 @@
-#bodytext{
-  font-family: 'Montserrat', arial, sans-serif;
-  font-weight: 200;
-  font-size: 16px;
-}
-#headings{
-  font-weight:300;
-  font-size: 17px;
-  font-style: oblique;
-}
-#dateline{
-  font-weight: 100;
-  font-size: 15px;
-  font-style: italic;
 
-}
 #work,#skills,#edu{
   text-align: center;
   padding-top:1em;
